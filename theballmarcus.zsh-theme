@@ -31,5 +31,5 @@ TRAPALRM() {
     zle reset-prompt
 }
 
-# Works with the nordvpn library - it will display nordvpn status in right top corner. Comment out if you dont want it.
+# Works with the nordvpn plugin - it will display nordvpn status in right top corner. Comment out if you dont want it.
 #loop_nordvpn_info;

@@ -16,7 +16,7 @@ and change .zshrc's ZSH_THEME="" line to
 
 ### Nordpvn ZSH Plugin
 #### Features:
-Addsa bunch of aliases:
+Added a bunch of aliases:
 * nlc='nordvpn countries'
 * nlci='nordvpn cities'
 * noc='nordvpn connect'
